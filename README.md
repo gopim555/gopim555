@@ -52,6 +52,12 @@
 
 ---
 
+## LeetCode stats
+
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Gopi__M?theme=dark&font=Noto%20Sans%20Arabic)
+</p>
+
 ## 🚀 Projects
 
 **[Weather Forecast Application](https://gopim555.github.io/weather-forecast/)** — Realtime weather forecasting across the globe. `HTML` `CSS` `JS`
