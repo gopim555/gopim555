@@ -48,15 +48,21 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gopim555&theme=default&hide_border=true"/>
+  
+  [![Gopi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gopim555&bg_color=0d1117&color=23eb14&line=23eb14&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
 
-## LeetCode stats
+## 💻 LeetCode stats
 
-<p align="center">
+<div align="center">
+  
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Gopi__M?theme=dark&font=Noto%20Sans%20Arabic)
-</p>
+
+</div>
+  
+---
 
 ## 🚀 Projects
 
